@@ -1,0 +1,21 @@
+﻿Move
+Left
+Move
+Report  
+    Place 0,        4   ,North      
+Move
+Place 0       ,    3        ,      North       
+Left
+   Move
+Left
+Left
+Move
+
+Move
+Move
+Move
+
+Move
+Left
+
+Report
